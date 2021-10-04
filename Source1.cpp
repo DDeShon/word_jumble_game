@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 	enum fields { WORD, HINT, NUM_FIELDS };
-	const int NUM_WORDS = 5;
+	const int NUM_WORDS = 6;
 	const string WORDS[NUM_WORDS][NUM_FIELDS] =
 	{
 		{ "wall", "Do you feel you're banging your head against something?" },
