@@ -18,7 +18,8 @@ int main()
 		{ "glasses", "These might help you see the answer." },
 		{ "labored", "Going slowly, is it?" },
 		{ "persistent", "Keep at it." },
-		{ "jumble", "It's what the game is all about." }
+		{ "jumble", "It's what the game is all about." },
+		{ "chicken", "Why did it cross the road?"}
 	};
 
 	srand(static_cast<unsigned int>(time(0)));
